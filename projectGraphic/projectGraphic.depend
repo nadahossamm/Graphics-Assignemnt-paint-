@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1623263896 source:c:\users\kerols\onedrive\desktop\projectgraphic\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<cmath>
+	<fstream>
+	<vector>
+	<string>
+
+1623264964 source:e:\nada\y3t2\graphics\projectgraphic\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<cmath>
+	<fstream>
+	<vector>
+	<string>
+
